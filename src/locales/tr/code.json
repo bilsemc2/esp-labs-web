@@ -21,7 +21,7 @@
     }
   },
   "toolbar": {
-    "back": "Deney<wide>e dön</wide>",
+    "back": "<wide>Deneye </wide>dön",
     "howToRead": "Nasıl okunur",
     "progress": "Bu deneyin okuduğun kodu",
     "levelTitle": "Seviyeyi Ayarlar'dan değiştir",
