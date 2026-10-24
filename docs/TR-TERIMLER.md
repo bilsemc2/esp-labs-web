@@ -98,4 +98,21 @@ Bu belge `src/locales/tr/` çevirisi için ortak kurallardır. Genel kurallar `d
 | duty cycle | görev oranı |
 | "Lesson 01" | "01 numaralı ders" |
 
+| handle (BLE, görev) | tanıtıcı |
+| characteristic | karakteristik |
+| bond | bağ, bağ kurmak |
+| coin cell | düğme pil |
+| beacon | sinyal vericisi |
+| register | yazmaç |
+| token | token |
+| tap (kart) | okutmak |
+| clip | klip |
+| loudness | ses düzeyi |
+
 Çoğul çiftlerinde (`_one`, `_other`) iki Türkçe metin aynı olur.
+
+## Ekrandaki adlar
+
+- Ders, ekranda bir ada değiniyorsa (sekme, düğme, görünüm) ekrandaki metni aynen kullanır.
+- Kartın kendi ekranının çizdiği görünüm adları İngilizce kalır (ses: `scope`, `tuner`, `timeline`). Ders de bu adları İngilizce yazar.
+- Ayrı uygulamaların düğmeleri İngilizce kalır (`apps/ble-app`: Speed, Live). Ders ilk geçtiği yerde parantez içinde Türkçesini verir: "<b>Live</b> (Canlı)".
