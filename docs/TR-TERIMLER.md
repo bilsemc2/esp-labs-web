@@ -88,4 +88,14 @@ Bu belge `src/locales/tr/` çevirisi için ortak kurallardır. Genel kurallar `d
 | microphone | mikrofon |
 | recorder | ses kaydedici |
 | settings | ayarlar |
-| theme (light/dark) | tema (açık/koyu) |
+| theme (light/dark) | tema (açık/koyu), yalnız renk teması için |
+| ESP32-S3 Bench Guide | ESP32-S3 Tezgâh Rehberi |
+| pinout (board) | kart pin düzeni |
+| pin header | pin başlığı |
+| flash (bellek) | flash bellek |
+| push button | basmalı düğme |
+| guided tour | rehberli tur |
+| duty cycle | görev oranı |
+| "Lesson 01" | "01 numaralı ders" |
+
+Çoğul çiftlerinde (`_one`, `_other`) iki Türkçe metin aynı olur.
